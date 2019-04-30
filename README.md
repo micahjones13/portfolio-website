@@ -14,8 +14,8 @@ _ Watch this walk through video:  https://youtu.be/P2Y9W29kcjs
 - [x] Add PM as collaborator on Github.
 - [x] Clone your OWN version of the repository (Not Lambda's by mistake!).
 - [x] Create a new branch on the clone: `git checkout -b <firstName-lastName>`.
-- [ ] Implement the project on the `<firstName-lastName>` branch, committing changes regularly.
-- [ ] Push commits: `git push origin <firstName-lastName>`.
+- [x] Implement the project on the `<firstName-lastName>` branch, committing changes regularly.
+- [x] Push commits: `git push origin <firstName-lastName>`.
 
 ### Follow these steps to download your template and start the project:
 
@@ -28,13 +28,13 @@ _ Watch this walk through video:  https://youtu.be/P2Y9W29kcjs
 
 - [x] Unzip the code and copy the site to your git repository that you just set up
   * Note that we won't be utilizing the pre processed CSS structure, you can just ignore any folder with LESS or SASS (SCSS) in it.
-- [ ] Work on the MVP requirements listed below
+- [x] Work on the MVP requirements listed below
 
 ### Follow these steps for completing your project after your MVP is completed:
 
-- [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into master (student's Repo). **Please don't merge your own pull request**
-- [ ] Add your Project Manager as a Reviewer on the Pull-request
-- [ ] PM then will count the HW as done by merging the branch back into master.
+- [x] Submit a Pull-Request to merge `<firstName-lastName>` Branch into master (student's Repo). **Please don't merge your own pull request**
+- [x] Add your Project Manager as a Reviewer on the Pull-request
+- [x] PM then will count the HW as done by merging the branch back into master.
 
 ## MVP Requirements
 
